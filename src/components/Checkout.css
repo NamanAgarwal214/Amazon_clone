@@ -1,0 +1,20 @@
+.checkoutImg {
+  width: 100%;
+  /* object-fit: contain; */
+  /* object-position: top; */
+  /* height: 50px; */
+  margin-bottom: 10px;
+}
+
+.checkout {
+  display: flex;
+  /* padding: 20px; */
+  height: max-content;
+  margin: 0;
+}
+
+.checkoutTitle {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
